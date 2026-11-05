@@ -1,0 +1,4 @@
+-r requirements.txt
+pypdf>=4.0
+sentence-transformers>=3.0
+numpy>=1.24
